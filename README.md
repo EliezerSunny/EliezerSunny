@@ -2,8 +2,7 @@
 
 I'm a passionate web designer and Web Developer with 3 years of experience creating dynamic and visually appealing website. My expertise lies in web design and web development.
 
-## Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-end developer
-.
+Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-end developer
 
 ## Let's connect
 
