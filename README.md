@@ -4,7 +4,7 @@ I'm a passionate web designer and Web Developer with 3 years of experience creat
 
 Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-end developer
 
-## Let's connect
+## Connect with me:
 
 * [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdev_sunny_e)](https://twitter.com/eliezer_sunny) 
 * [![Facebook](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100070200044354&logo=Facebook&label=Facebook)](https://www.facebook.com/profile.php?id=100070200044354)
