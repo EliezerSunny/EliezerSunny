@@ -1,8 +1,12 @@
 # Hey, I'm Süññy 👋
 
-I'm a passionate web designer and Web Developer with 3 years of experience creating dynamic and visually appealing website. My expertise lies in web design and web development.
+I'm a passionate web developer with a strong foundation in front-end and back-end technologies. I'm dedicated to creating engaging and user-friendly websites and web applications that make a difference. Let's build something great together!
 
-Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-end developer
+Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-end developer.
+
+## Projects:
+
+* [![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2Fadetunjieliazer.github.io%2Fdev_sunny-portfolio%2F&style=badge&logo=None&label=Dev.%20Sunny%20portfolio&color=%23565656)](https://adetunjieliazer.github.io/dev_sunny-portfolio/)
 
 ## Connect with me on:
 
