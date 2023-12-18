@@ -6,12 +6,12 @@ Web Developer || Love2Code || Develop your skills 👨‍💻 || Gamer || Back-e
 
 ## Projects:
 
-[![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2Fadetunjieliazer.github.io%2Fdev_sunny-portfolio%2F&style=badge&logo=None&label=Süññy%20portfolio&color=%23565656)](https://adetunjieliazer.github.io/dev_sunny-portfolio/)
+[![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2FEliezerSunny.github.io%2Feliezersunny-portfolio%2F&style=badge&logo=None&label=Süññy%20portfolio&color=%23565656)](https://eliezersunny.github.io/eliezersunny-portfolio/)
 
 ## Connect with me on:
 
-* [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdev_sunny_e)](https://twitter.com/eliezer_sunny) 
+* [![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FEliezerSunny)](https://twitter.com/eliezersunny) 
 * [![Facebook](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100070200044354&logo=Facebook&label=Facebook)](https://www.facebook.com/profile.php?id=100070200044354)
 * [![WhatsApp](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwa.me%2F2348149028042&style=Social&logo=WhatsApp&label=WhatsApp&labelColor=%23075E54&color=%23075E54)](https://wa.me/2348149028042) 
-* [![Thread](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.threads.net%2F%40eliezer_sunny&logo=%40&label=%40%20Tread)](https://www.threads.net/@eliezer_sunny)  
-* [![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2Fadetunjieliazer.github.io%2Fdev_sunny-portfolio%2F&style=badge&logo=None&label=Süññy%20portfolio&color=%23565656)](https://adetunjieliazer.github.io/dev_sunny-portfolio/)
+* [![Thread](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.threads.net%2F%40eliezer_sunny&logo=%40&label=%40%20Tread)](https://www.threads.net/@eliezersunnyy)  
+* [![Portfolio](https://img.shields.io/twitter/url?url=https%3A%2F%2FEliezersunny.github.io%2Feliezersunny-portfolio%2F&style=badge&logo=None&label=Süññy%20portfolio&color=%23565656)](https://eliezersunny.github.io/eliezersunny-portfolio/)
